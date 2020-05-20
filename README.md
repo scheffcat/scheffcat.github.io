@@ -1,3 +1,3 @@
 github-pages-sandbox
 
-Eine Testumgebung zum Aufbau einer tief durchdachten GitHub Pages Umgebung
+Eine Testumgebung zum Aufbau einer tief durchdachten GitHub Pages Umgebung :P
